@@ -251,7 +251,7 @@
 				TargetAttributes = {
 					F0ECF23A1B79D5EE006DF335 = {
 						CreatedOnToolsVersion = 6.4;
-						DevelopmentTeam = U259566QKD;
+						DevelopmentTeam = 65DR5JE296;
 					};
 					F0ECF2531B79D5EF006DF335 = {
 						CreatedOnToolsVersion = 6.4;
@@ -447,6 +447,7 @@
 				INFOPLIST_FILE = YPTabBarController/Demo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cyt.tester;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
@@ -461,6 +462,7 @@
 				INFOPLIST_FILE = YPTabBarController/Demo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cyt.tester;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
